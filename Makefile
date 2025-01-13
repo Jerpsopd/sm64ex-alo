@@ -37,7 +37,7 @@ LEVEL_SELECT ?= 0
 #puppyprint debug
 PUPPYDEBUG ?= 0
 #use gc controller, no reason to leave off tbh
-USE_GC ?= 1
+USE_GC ?= 0
 
 # Build for original N64 (no pc code)
 TARGET_N64 = 1
